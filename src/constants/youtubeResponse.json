@@ -1,0 +1,144 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/E0aiIWYeP7ELbXRJZfaJ4dlI0OQ\"",
+    "nextPageToken": "CAQQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 372,
+        "resultsPerPage": 4
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/NCOqobZdRMof2M-Yy-4H58MUky0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "11zzJ-xjoDM"
+            },
+            "snippet": {
+                "publishedAt": "2017-03-29T06:58:05.000Z",
+                "channelId": "UCstEtN0pgOmCf02EdXsGChw",
+                "title": "Magandang Buhay Online - March 29, 2017",
+                "description": "Subscribe to the ABS-CBN Entertainment channel! - http://bit.ly/ABSCBNOnline Watch the full episodes of Magandang Buhay on TFC.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/11zzJ-xjoDM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/11zzJ-xjoDM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/11zzJ-xjoDM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ABS-CBN Entertainment",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/np7p5IhNmz-czaceda_bAzoaCJY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PG01Owili08"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-24T13:47:12.000Z",
+                "channelId": "UCo6bPjSJ106v2Ho3utKx_fA",
+                "title": "BoybandPH: Thank You, Super Fans!",
+                "description": "Subscribe to Pinoy Boyband Superstar channel! - http://bit.ly/PinoyBoyBandSuperstar Watch the full episodes of Pinoy Boyband Superstar on TFC.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PG01Owili08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PG01Owili08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PG01Owili08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pinoy Boyband Superstar",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/ZF-mqEz25UJ9B-LXbBxgOYJVofQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vZGOLjS25AA"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-14T11:26:06.000Z",
+                "channelId": "UCstEtN0pgOmCf02EdXsGChw",
+                "title": "ASAP Chillout BTS - June 14, 2017",
+                "description": "Subscribe to ABS-CBN Entertainment channel! - http://bit.ly/ABS-CBNEntertainment Watch the full episodes of ASAP on TFC.TV http://bit.ly/ASAP20-TFCTV and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vZGOLjS25AA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vZGOLjS25AA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vZGOLjS25AA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ABS-CBN Entertainment",
+                "liveBroadcastContent": "none"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "\"nlUZBA6NbTS7q9G8D1GljyfTIWI/luTpzeEHWOGk25PiUW9slnt_Zh4\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Pngaiukz2YA"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-03T08:05:55.000Z",
+                "channelId": "UCstEtN0pgOmCf02EdXsGChw",
+                "title": "Magandang Buhay Online - March 16, 2017",
+                "description": "Subscribe to the ABS-CBN Entertainment channel! - http://bit.ly/ABSCBNOnline Watch the full episodes of Magandang Buhay on TFC.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pngaiukz2YA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pngaiukz2YA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pngaiukz2YA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ABS-CBN Entertainment",
+                "liveBroadcastContent": "none"
+            }
+        }
+    ]
+}
